@@ -44,14 +44,7 @@ What the RTM found
 3 requirements (security of stored data, page speed, browser support) had no test case yet, so they are marked "Not covered".
 Some Jira story statuses did not match the test results, and the RTM marks them so they can be corrected.
 
-Folder guide
-loan-origination-system/
-├── BRD/                 Business Requirement Document (v1.1)
-├── Use-Cases/           Use case document (v1.0)
-├── Jira-Screenshots/    Sprint boards, backlog and a sample story
-├── UAT/                 UAT sheet with 10 test cases and results
-├── RTM/                 Requirement Traceability Matrix (Excel)
-└── README.md
+
 
 What I learned
 How to turn a business problem into clear, numbered requirements.
